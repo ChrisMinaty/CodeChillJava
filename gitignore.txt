@@ -1,0 +1,28 @@
+# === Java ===
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# === Eclipse ===
+.project
+.classpath
+.settings/
+bin/
+tmp/
+
+# === macOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+
+# === IntelliJ ===
+.idea/
+*.iml
+out/
+
+# === Sonstiges ===
+*.swp
+*.swo
